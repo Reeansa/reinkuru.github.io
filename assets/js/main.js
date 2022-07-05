@@ -45,7 +45,7 @@
             # Typed Text Init Init
         ===============================================*/
         $(".element").typed({
-            strings: ["UI Designer", "Frontend Website Developer", "Fotografi"],
+            strings: ["UI Designer", "Frontend Website Developer", "Photography"],
             typeSpeed: 10,
             loop: true,
             backDelay: 2000
